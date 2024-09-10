@@ -10,4 +10,10 @@ body {
 
 section {
     background: rgba(110, 4, 4, 0.87);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.chamada-texto{
+    margin-right: 20px;
 }
